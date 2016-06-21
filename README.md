@@ -1,0 +1,1 @@
+This is the code associated wtih "Understanding Regression Diagnostics: An Online Tool" - See description at: http://blog.nycdatascience.com/students-work/understanding-regression-diagnostics-an-online-tool/#sthash.JvADuGkF.dpuf
